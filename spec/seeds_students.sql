@@ -1,4 +1,3 @@
-
 TRUNCATE TABLE students, cohorts RESTART IDENTITY;
 
 -- Below this line there should only be `INSERT` statements.
